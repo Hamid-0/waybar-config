@@ -4,7 +4,7 @@
 // sourced from header module //
 
     "layer": "top",
-    "output": [ "DP-2" ],
+    "output": [ "DP-1" ],
     "position": "bottom",
     "mod": "dock",
     "height": 31,
@@ -386,7 +386,7 @@
     // sourced from header module //
     
         "layer": "top",
-        "output": [ "DP-1" ],
+        "output": [ "DP-2" ],
         "position": "bottom",
         "mod": "dock",
         "height": 31,
